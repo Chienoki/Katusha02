@@ -6,7 +6,7 @@ You can use the [editor on GitHub](https://github.com/Chienoki/Katusha02/edit/ma
 width="2" height="0">
 </embed>
 <bgsound src="drop pop candy RE.mp3" loop="infinite">
- 
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for

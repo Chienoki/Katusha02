@@ -6,4 +6,4 @@ theme: jekyll-theme-hacker
 Your browser does not support the audio element.
 </audio>
 
-background-image: url('https://github.com/Chienoki/Katusha02/blob/master/bg1.png') no-repeat;
+background-image: url('https://raw.githubusercontent.com/Chienoki/Katusha02/master/bg1.png') no-repeat;

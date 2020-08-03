@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to my personal blogger
 
 You can use the [editor on GitHub](https://github.com/Chienoki/Katusha02/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<audio src="/music/drop pop candy RE.mp3" controls>
+<p>If you are reading this, it is because your browser does not support the audio element.</p>
+</audio>
 
 ### Markdown
 

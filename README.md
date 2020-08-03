@@ -2,8 +2,12 @@
 
 You can use the [editor on GitHub](https://github.com/Chienoki/Katusha02/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-
-
+<embed src="drop pop candy RE.mp3" autostart="true" loop="true"
+width="2" height="0">
+</embed>
+<noembed>
+<bgsound src="drop pop candy RE.mp3" loop="infinite">
+</noembed>
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for

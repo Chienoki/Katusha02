@@ -1,0 +1,75 @@
+<!DOCTYPE HTML>
+<!--
+	Hielo by TEMPLATED
+	templated.co @templatedco
+	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
+-->
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body class="subpage">
+
+		<!-- Header -->
+			<header id="header">
+				<a href="#menu">Menu</a>
+			</header>
+
+		<!-- Nav -->
+			<nav id="menu">
+				<ul class="links">
+					<li><a href="index.html">Home</a></li>
+				</ul>
+			</nav>
+
+		<!-- One -->
+			<section id="One" class="wrapper style3">
+				<div class="inner">
+					<header class="align-center">
+						<p>OLD GAME NOW PLAYS</p>
+						<h2>The thoughts about Battlefield 4</h2>
+					</header>
+				</div>
+			</section>
+
+		<!-- Two -->
+			<section id="two" class="wrapper style2">
+				<div class="inner">
+					<div class="box">
+						&nbsp;
+						<p>Somehow QBZ and many other Chinese firearms are unpopular in BF4 now days, especially the assualt rifle QBZ95-1, due to the low RPM, it is as rare as AK12 and 
+            SA21 that anyone ever want to pick up and fight with it. But after a while gameplay, I did find the way to use it and make it deadly. And I like it, with the low
+            recoil and good accracy, is kind of a excellent rifle to use.</p>
+						<p><center>
+                   <video width="320" height="240" controls>
+                   <source src="BF4_QBZ95.mp4" type="video/mp4">
+                   <source src="BF4_QBZ95.ogg" type="video/ogg">
+                   Your browser does not support the video tag.
+                    </video>
+							       </a></center></p>
+							&nbsp;
+							<p>That's the recent gameplay I had done with the rifle in Operation Locker.</p>
+						</div>
+					</div>
+				</div>
+
+		<!-- Footer -->
+			<footer id="footer">
+				<div class="container">
+				</div>
+				<div class="copyright">
+					&copy;Katusha02.Some rights.
+				</div>
+			</footer>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
